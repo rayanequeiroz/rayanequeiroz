@@ -1,6 +1,3 @@
-<div align="center">
-<img width="80%" height = "280px" src="https://images.wallpaperscraft.com/image/code_text_colorful_140555_1280x720.jpg" alt="cover" />
-</div>
 
 <h1> Hi, I'm Rayane! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
