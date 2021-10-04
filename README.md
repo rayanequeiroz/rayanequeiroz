@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on front-end projects
 
-- 🌱 I’m currently learning Javascript, React and TypeScript 
+- 🌱 I’m currently learning Javascript, React, Vue and TypeScript 
 
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
 
