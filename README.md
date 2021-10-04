@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning Javascript, React, Vue and TypeScript 
 
-- 👯 I’m looking to collaborate on Projects and Tech Articles 
+- 🎓 Computer Systems Student at UFF - Universidade Federal Fluminense
 
 - 💬 Talk to me about  Javascript, Jobs Opportunites, Open Source 
 
