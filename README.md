@@ -13,6 +13,8 @@
 
 
 - 🔭 I'm a Frontend Software Developer
+  
+- 🖥️ Working in some freelas 
 
 - 🌱 +3 years of XP
 
